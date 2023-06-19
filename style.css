@@ -1,0 +1,36 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+
+.QR-card {
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 20px;
+  font-family: 'Outfit', sans-serif;
+  font-size: 15px;
+  color: black;
+  width: 400px;
+  height: 700px;
+  margin: auto;
+  margin-top: 25vh;
+}
+
+.QR-code {
+  width: 360px;
+  margin: 20px;
+  border-radius: 15px;
+}
+
+.card-title {
+  color: hsl(218, 44%, 22%);
+  margin: 20px;
+  text-align: center;
+  /* border: 1px solid red; */
+}
+
+.card-description {
+  color: hsl(218, 44%, 22%);
+  margin: 40px;
+  text-align: center;
+  font-weight: 400;
+  /* border: 1px solid red; */
+}
